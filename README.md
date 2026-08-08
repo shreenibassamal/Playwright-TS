@@ -1,1 +1,1 @@
-# playwright-ts
+# Playwright-TS
